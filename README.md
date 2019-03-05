@@ -1,7 +1,7 @@
 # COP3710Collaboration
 A collaboration of my COP3710 (Introduction to Data Engineering) course homework and assignments
 
-HW1 is a basic xml to json conversion
+HW1 is a basic json to xml conversion
 
 HW3 utilizes H2, a Java-based SQL database. The link to the H2 website can be found here: http://www.h2database.com/html/main.html
 
